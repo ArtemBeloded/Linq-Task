@@ -1,14 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DataGrouping
 {
     public static class FillingCollection
     {
         private static HousesCollection myCollection;
+
         private static Random rnd;
 
         public static List<House> Filling()
