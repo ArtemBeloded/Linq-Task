@@ -1,0 +1,6 @@
+C:\Users\Artem\Desktop\GitHub\Linq-Task\Linq Task\NumberGrouping\bin\Debug\NumberGrouping.exe.config
+C:\Users\Artem\Desktop\GitHub\Linq-Task\Linq Task\NumberGrouping\bin\Debug\NumberGrouping.exe
+C:\Users\Artem\Desktop\GitHub\Linq-Task\Linq Task\NumberGrouping\bin\Debug\NumberGrouping.pdb
+C:\Users\Artem\Desktop\GitHub\Linq-Task\Linq Task\NumberGrouping\obj\Debug\NumberGrouping.csprojAssemblyReference.cache
+C:\Users\Artem\Desktop\GitHub\Linq-Task\Linq Task\NumberGrouping\obj\Debug\NumberGrouping.exe
+C:\Users\Artem\Desktop\GitHub\Linq-Task\Linq Task\NumberGrouping\obj\Debug\NumberGrouping.pdb
