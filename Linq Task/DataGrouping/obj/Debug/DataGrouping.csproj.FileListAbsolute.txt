@@ -1,0 +1,6 @@
+C:\Users\Artem\Desktop\GitHub\Linq-Task\Linq Task\DataGrouping\bin\Debug\DataGrouping.exe.config
+C:\Users\Artem\Desktop\GitHub\Linq-Task\Linq Task\DataGrouping\bin\Debug\DataGrouping.exe
+C:\Users\Artem\Desktop\GitHub\Linq-Task\Linq Task\DataGrouping\bin\Debug\DataGrouping.pdb
+C:\Users\Artem\Desktop\GitHub\Linq-Task\Linq Task\DataGrouping\obj\Debug\DataGrouping.exe
+C:\Users\Artem\Desktop\GitHub\Linq-Task\Linq Task\DataGrouping\obj\Debug\DataGrouping.pdb
+C:\Users\Artem\Desktop\GitHub\Linq-Task\Linq Task\DataGrouping\obj\Debug\DataGrouping.csprojAssemblyReference.cache
