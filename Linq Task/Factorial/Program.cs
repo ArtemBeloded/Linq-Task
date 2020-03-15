@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Fibonacci
+namespace Factorial
 {
     class Program
     {
@@ -14,12 +14,14 @@ namespace Fibonacci
             int num;
             if (Int32.TryParse(Console.ReadLine(), out num))
             {
-                Console.WriteLine("Рассчитанное число: {0}", FibonacciCalculation.Fibonacci_Linq(num));
+                Console.WriteLine("Факториал рассчитан с помощью linq: {0}", FactorialCalculation.Factorial_Linq(num));
+                Console.WriteLine("Факториал рассчитан с помощью linq: {0}", FactorialCalculation.Factorial_Recursion(num));
             }
-            else 
+            else
             {
                 Console.WriteLine("Введено некорректное значение");
             }
+
         }
     }
 }

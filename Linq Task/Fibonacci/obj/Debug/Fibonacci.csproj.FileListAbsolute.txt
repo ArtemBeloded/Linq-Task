@@ -1,4 +1,3 @@
-C:\Users\Artem\Desktop\GitHub\Linq-Task\Linq Task\Fibonacci\obj\Debug\Fibonacci.csprojAssemblyReference.cache
 C:\Users\Artem\Desktop\GitHub\Linq-Task\Linq Task\Fibonacci\bin\Debug\Fibonacci.exe.config
 C:\Users\Artem\Desktop\GitHub\Linq-Task\Linq Task\Fibonacci\bin\Debug\Fibonacci.exe
 C:\Users\Artem\Desktop\GitHub\Linq-Task\Linq Task\Fibonacci\bin\Debug\Fibonacci.pdb
