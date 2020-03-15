@@ -1,0 +1,5 @@
+C:\Users\Artem\Desktop\GitHub\Linq-Task\Linq Task\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\Users\Artem\Desktop\GitHub\Linq-Task\Linq Task\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Users\Artem\Desktop\GitHub\Linq-Task\Linq Task\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Users\Artem\Desktop\GitHub\Linq-Task\Linq Task\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Users\Artem\Desktop\GitHub\Linq-Task\Linq Task\Fibonacci\obj\Debug\Fibonacci.pdb
